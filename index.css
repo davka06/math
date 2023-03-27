@@ -11,10 +11,19 @@
   margin: 5px 5px;
   cursor: pointer;
   border-radius: 10px;
+  width: 300px;
 }
 .button:hover{
     background-color: black;
 }
 .button:visited{
     background-color: #105a88;
+}
+body{
+  background: #f0f0f0;
+}
+
+.button_center{
+  display: flex;
+  justify-content: center;
 }
