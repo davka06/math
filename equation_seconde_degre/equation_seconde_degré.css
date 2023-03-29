@@ -1,14 +1,14 @@
 p{
     font-weight: bold;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    font-size: 20px;
+    font-size: 1wv;
   }
   
 body{
     background: #f0f0f0;
 }
 .important{
-    color: red;
+    color: rgb(0, 0, 0);
 }
 .exemple{
     color: green;
